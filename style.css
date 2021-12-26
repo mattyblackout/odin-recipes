@@ -1,0 +1,18 @@
+* {
+    font-family: Verdana;
+}
+
+body {
+    background-color: lightslategray;
+}
+
+p, 
+ol,
+ul {
+    font-size: 14px;
+}
+
+.image {
+    height: auto;
+    width: 500px;
+}
